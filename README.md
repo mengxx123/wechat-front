@@ -1,6 +1,6 @@
-# template-front
+# wechat-front
 
-> A Vue.js project
+> 微信公众号第三方管理系统
 
 ## Build Setup
 
