@@ -1,0 +1,84 @@
+{
+    "button": [
+        {
+            "name": "普拉提",
+            "sub_button": [
+                {
+                    "type": "view",
+                    "name": "预约团课",
+                    "url": "http://www.styd.cn/m/10871556/default/index?type=1"
+                },
+                {
+                    "type": "click",
+                    "name": "预约私教",
+                    "key": "K_coach"
+                },
+                {
+                    "type": "click",
+                    "name": "本月课程",
+                    "key": "K_sourse"
+                },
+                {
+                    "type": "view",
+                    "name": "教练风采",
+                    "url": "http://www.styd.cn/m/10871556/coach/list"
+                },
+                {
+                    "type": "view",
+                    "name": "普拉提资讯",
+                    "url": "http://mp.weixin.qq.com/mp/homepage?__biz=MzIxMDEwNjg3Ng==&hid=1&sn=65a10f31521702c32ec6c2523986fda7&scene=18#wechat_redirect"
+                }
+            ]
+        },
+        {
+            "name": "扮靓",
+            "sub_button": [
+                {
+                    "type": "click",
+                    "name": "预约美容",
+                    "key": "K_empty3"
+                },
+                {
+                    "type": "click",
+                    "name": "预约美甲",
+                    "key": "K_empty2"
+                },
+                {
+                    "type": "click",
+                    "name": "预约美睫",
+                    "key": "K_empty1"
+                },
+                {
+                    "type": "view",
+                    "name": "扮靓秘诀",
+                    "url": "http://mp.weixin.qq.com/mp/homepage?__biz=MzIxMDEwNjg3Ng==&hid=1&sn=65a10f31521702c32ec6c2523986fda7&scene=18#wechat_redirect"
+                }
+            ]
+        },
+        {
+            "name": "紫然肌",
+            "sub_button": [
+                {
+                    "type": "view",
+                    "name": "限时优惠",
+                    "url": "https://mp.weixin.qq.com/s?__biz=MzIxMDEwNjg3Ng==&mid=2650310069&idx=1&sn=0fc1377a51e85283c42154741637e9b5&chksm=8f658526b8120c30b71784e6e9be33437081531d196de76855e1d1ca64072810a623cabe0d88&scene=18#rd"
+                },
+                {
+                    "type": "view",
+                    "name": "我的会员卡",
+                    "url": "http://www.styd.cn/m/10871556/user/card"
+                },
+                {
+                    "type": "view",
+                    "name": "我的预约",
+                    "url": "http://www.styd.cn/m/10871556/user/order"
+                },
+                {
+                    "type": "click",
+                    "name": "联系客服",
+                    "key": "K_service"
+                }
+            ]
+        }
+    ]
+}
