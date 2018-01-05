@@ -8,7 +8,7 @@ if (process.env.NODE_ENV === 'production') {
     imgDomain = 'http://120.79.29.47'
     apiDomain = 'http://example.yunser.com'
     domain = {
-        api: 'http://example.yunser.com'
+        api: 'http://ai.yunser.com'
     }
 } else {
     imgDomain = 'http://120.79.29.47'

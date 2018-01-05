@@ -36,7 +36,7 @@
                         <input type="file" value="上传文件" @change="filechange($event)">
                     </div>
                     <div class="editor-content" v-if="button">
-                        <div v-if="button.sub_button">已添加子菜单，仅可设置菜单名称。</div>
+                        <div v-if="button.sub_button && button.sub_button.length">已添加子菜单，仅可设置菜单名称。</div>
                         <button @click="removeMenu">删除菜单</button>
                         <div>
                             <label>菜单名称</label>
